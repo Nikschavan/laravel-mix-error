@@ -1,0 +1,22 @@
+{
+  "name": "mix-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.mix.js",
+  "dependencies": {
+    "laravel-mix": "^6.0.25"
+  },
+  "devDependencies": {
+    "postcss": "^8.3.5",
+    "postcss-custom-properties": "^11.0.0",
+    "postcss-flexibility": "^3.0.0",
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.35.2",
+    "sass-loader": "^12.1.0"
+  },
+  "scripts": {
+    "build": "mix"
+  },
+  "author": "",
+  "license": "ISC"
+}
