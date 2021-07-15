@@ -3,19 +3,3 @@
   display: flex;
   flex: 1;
 }
-
-@-webkit-keyframes foo {
-  to {
-    background: red;
-  }
-}
-
-@keyframes foo {
-  to {
-    background: red;
-  }
-}
-#selector {
-  -webkit-animation: foo 2s;
-          animation: foo 2s;
-}
